@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Studying Social Ineqaulity with Data Science
-tagline: Cornell Info 3370 / 5371 Spring 2023
-description: This course equips students with tools to study social inequality using methods from data science
+title: Info 3370
+tagline: Studying Social Ineqaulity with Data Science
+description: Spring 2023
 author: Ian Lundberg
-baseurl: '/sp23' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://info3370.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
