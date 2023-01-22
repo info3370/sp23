@@ -1,0 +1,11 @@
+---
+layout: page
+nav_order: 7
+title: Machine learning
+description: Machine learning
+permalink: calendar/8g
+grand_parent: Calendar
+parent: Interventions
+---
+
+# Machine learning estimators of causal effects

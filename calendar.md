@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Calendar
+title: Topics
 description: Listing of course modules and topics.
+has_children: true
 ---
 
-# Calendar
+# Topics
 
 {% for module in site.modules %}
 {{ module }}

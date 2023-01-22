@@ -1,23 +1,18 @@
 ---
-title: Basic Data Structures
+title: Income inequality. Visualizing macrodata
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+During this module, I suggest reading all of R4DS Ch [3](https://r4ds.had.co.nz/data-visualisation.html) and [27](https://r4ds.had.co.nz/r-markdown.html).
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Jan 30
+: [Creating a `ggplot`](2a)
+  : [R4DS 3.1 and 3.2](https://r4ds.had.co.nz/data-visualisation.html)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Feb 1
+: [Aesthetics `color` and `shape`](2b)
+  : [R4DS 3.3 and 3.4](https://r4ds.had.co.nz/data-visualisation.html#aesthetic-mappings)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Feb 3
+: [Reproducibility with RMarkdown](2c)
+  : [R4DS 27](https://r4ds.had.co.nz/r-markdown.html)
+: [HW 1 released](){: .btn .btn-green }

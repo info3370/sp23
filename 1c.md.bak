@@ -1,0 +1,23 @@
+---
+layout: page
+nav_order: 3
+title: Using R
+description: Using R
+permalink: calendar/1c
+parent: Getting started
+grand_parent: Calendar
+---
+
+# Using R
+
+Today we will begin using R! R is a powerful tool for data analysis.
+
+Before class, you should follow the instructions in [R4DS 1.4](https://r4ds.had.co.nz/introduction.html#prerequisites) to
+
+1. [Install R](https://cloud.r-project.org/), which is statistical software
+2. [Install RStudio](http://www.rstudio.com/download), which is a particular environment we will use to work with R
+3. Install the `tidyverse` package as described in the book
+
+If you have trouble, post a question in Ed or ask in office hours. If something goes wrong with your computer so that you aren't fully set up it'll be ok---for this class session we'll just begin to get familiar with the R environment.
+
+After class, you may want to read the other parts of [R4DS 1](https://r4ds.had.co.nz/introduction.html) which provide an overview of the approach to data science taken by this textbook.

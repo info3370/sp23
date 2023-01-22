@@ -1,26 +1,33 @@
 ---
 layout: page
-title: Staff
+title: Who We Are
 description: A listing of all the course staff members.
 ---
 
-# Staff
+# Who We Are
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+For office hours, see the [Weekly Schedule](../schedule)
 
-## Instructors
+## Faculty
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
+{% assign faculty = site.staffers | where: 'role', 'Faculty' %}
+{% for staffer in faculty %}
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+## PhD TA
 
-{% for staffer in teaching_assistants %}
+{% assign phd_tas = site.staffers | where: 'role', 'PhD TA' %}
+{% for staffer in phd_tas %}
+{{ staffer }}
+{% endfor %}
+
+{% assign undergraduate_tas = site.staffers | where: 'role', 'Undergraduate TA' %}
+{% assign num_undergraduate_tas = undergraduate_tas | size %}
+{% if num_undergraduate_tas != 0 %}
+## Undergraduate TAs
+
+{% for staffer in undergraduate_tas %}
 {{ staffer }}
 {% endfor %}
 {% endif %}

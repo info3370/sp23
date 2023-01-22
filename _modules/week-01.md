@@ -1,23 +1,14 @@
 ---
-title: Introduction to Java
+title: Getting started
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan 23
+: Welcome to Info 3370 / 5371!
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Jan 25 
+: [Does inequality matter?](1b)
+  : [Jencks 2002 p. 49--57](https://www.jstor.org/stable/20027737)
+  
+Jan 27
+: [Using R](1c)
+  : [R4DS Ch 1](https://r4ds.had.co.nz/introduction.html)

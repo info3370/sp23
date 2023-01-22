@@ -21,46 +21,52 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
+      - name: Class
+        start: 11:20 AM
+        end: 12:10 PM
+        location: Phillips 203
+      - name: OH (Liz)
+        start: 1:00 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: Rhodes 406
+      - name: OH (Chase)
+        start: 4:30 PM
+        end: 5:30 PM
+        location: Rhodes 406
   - name: Tuesday
+    events:
+      - name: OH (Amaan)
+        start: 3:30 PM
+        end: 4:30 PM
+        location: Rhodes 406
+      - name: OH (Abby)
+        start: 4:30 PM
+        end: 5:30 PM
+        location: Rhodes 406
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Class
+        start: 11:20 AM
+        end: 12:10 PM
+        location: Phillips 203
+      - name: OH (Ian)
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Gates 223
   - name: Thursday
+    events:
+      - name: OH (Shirley)
+        start: 4:30 PM
+        end: 5:30 PM
+        location: Rhodes 406
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Class
+        start: 11:20 AM
+        end: 12:10 PM
+        location: Phillips 203
+      - name: OH (Fede)
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Rhodes 406
 ---

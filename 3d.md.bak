@@ -1,0 +1,10 @@
+---
+layout: page
+nav_order: 7
+title: Facets
+description: Many estimands with pivot_longer and facet_wrap
+permalink: calendar/3d
+grand_parent: Calendar
+parent: Income inequality
+---
+
