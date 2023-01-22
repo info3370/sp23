@@ -9,7 +9,10 @@ layout: home
 
 # Studying Social Inequality with Data Science
 
+Cornell INFO [3370](https://classes.cornell.edu/browse/roster/SP23/class/INFO/3370) / [5371](https://classes.cornell.edu/browse/roster/SP23/class/INFO/5371) (Spring '23)
+
 Together, we will generate new knowledge about social inequality using the tools of data science
+
 
 ## Learning goals
 
