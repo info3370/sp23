@@ -3,7 +3,8 @@ title: Getting started
 ---
 
 Jan 23
-: Welcome to Info 3370 / 5371!
+: [Welcome to Info 3370 / 5371!](1a)
+  : |
 
 Jan 25 
 : [Does inequality matter?](1b)
