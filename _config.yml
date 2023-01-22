@@ -32,7 +32,7 @@ aux_links:
   Canvas:
     - 'https://canvas.cornell.edu/courses/51595'
   Syllabus:
-    - 'assets/syllabus.pdf'
+    - 'https://info3370.github.io/assets/syllabus.pdf'
 plugins:
   - jekyll-feed
 
