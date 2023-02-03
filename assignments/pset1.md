@@ -6,19 +6,20 @@ description: Problem Set 1
 parent: Assignments
 ---
 
+
 # Problem Set 1. Visualizing Life Course Inequality
 
 **Info 3370. Studying Social Inequality with Data Science. Spring 2023**
 
-**Due: 5pm on 10 Feb 2023. Submit on
-[Canvas](https://canvas.cornell.edu/courses/51595).**
+**Due: 5pm on 10 Feb 2023.**
 
 Welcome to the first problem set!
 
-- Use this [.Rmd template](http://localhost:4000/assets/psets/pset1.Rmd)
-  to complete the problem set
+- Use this [.Rmd
+  template](http://info3370.github.io/assignments/pset1.Rmd) to
+  complete the problem set
 - If you want to print the assignment, here is a
-  [pdf](http://localhost:4000/assets/psets/pset1.pdf)
+  [pdf](https://info3370.github.io/assignments/pset1.pdf)
 - In Canvas, you will upload the PDF produced by your .Rmd file
 - Don’t put your name on the problem set. We want anonymous grading to
   be possible
@@ -28,11 +29,11 @@ This problem set involves both reading and data analysis.
 
 ### Reading for this the problem set
 
-Everyone will read p.\~1–7 of following paper. Stop before the section
-“Analytic Framework for Decomposing Inequality.”
+Everyone will read p. 1–7 of following paper. Stop before the section
+\`\`Analytic Framework for Decomposing Inequality.”
 
-> Cheng, Siwei. 2021. [The shifting life course patterns of wage
-> inequality.](https://doi.org/10.1093/sf/soab003). *Social Forces*
+> Cheng, Siwei. 2021. [The Shifting Life Course Patterns of Wage
+> Inequality.](https://doi.org/10.1093/sf/soab003). *Social Forces*
 > 100(1):1–28. <https://doi.org/10.1093/sf/soab003>
 
 Graduate students will also read this paper for the bonus question

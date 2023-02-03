@@ -15,8 +15,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome to the first problem set!
 
-- Use this [.Rmd template](http://localhost:4000/assets/psets/pset1.Rmd) to complete the problem set
-- If you want to print the assignment, here is a [pdf](http://localhost:4000/assets/psets/pset1.pdf)
+- Use this [.Rmd template](https://info3370.github.io/assignments/pset1.Rmd) to complete the problem set
+- If you want to print the assignment, here is a [pdf](hhttps://info3370.github.io/assignments/pset1.pdf)
 - In Canvas, you will upload the PDF produced by your .Rmd file
 - Don't put your name on the problem set. We want anonymous grading to be possible
 - We’re here to help! Reach out using Ed Discussion or Office Hours
