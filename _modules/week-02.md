@@ -17,6 +17,6 @@ Feb 1
   : R4DS [27](https://r4ds.had.co.nz/r-markdown.html)
   
 Feb 3
-: Microdata with IPUMS
- :
-: [HW 1 released](){: .btn .btn-green }
+: [Sampling for Population Inference](../lessonplans/2d)
+ : 
+: [HW 1 released](../assignments/pset1){: .btn .btn-green }

@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Info 3370
 email: ilundberg@cornell.edu
-description: My description is here
+description: Info 3370 at Cornell
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
