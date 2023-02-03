@@ -15,15 +15,7 @@ parent: Assignments
 
 Welcome to the first problem set!
 
-- Use this [.Rmd
-  template](http://info3370.github.io/assignments/pset1.Rmd) to
-  complete the problem set
-- If you want to print the assignment, here is a
-  [pdf](https://info3370.github.io/assignments/pset1.pdf)
-- In Canvas, you will upload the PDF produced by your .Rmd file
-- Don’t put your name on the problem set. We want anonymous grading to
-  be possible
-- We’re here to help! Reach out using Ed Discussion or Office Hours
+- Use this [.Rmd template](https://info3370.github.io/assets/assignments/pset1.Rmd) to complete the problem set- If you want to print the assignment, here is a [pdf](https://info3370.github.io/assets/assignments/pset1.pdf)- In Canvas, you will upload the PDF produced by your .Rmd file- Don't put your name on the problem set. We want anonymous grading to be possible- We’re here to help! Reach out using Ed Discussion or office hours
 
 This problem set involves both reading and data analysis.
 

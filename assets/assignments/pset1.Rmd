@@ -15,17 +15,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome to the first problem set!
 
-- Use this [.Rmd template](https://info3370.github.io/assignments/pset1.Rmd) to complete the problem set
-- If you want to print the assignment, here is a [pdf](hhttps://info3370.github.io/assignments/pset1.pdf)
+- Use this [.Rmd template](https://info3370.github.io/assets/assignments/pset1.Rmd) to complete the problem set
+- If you want to print the assignment, here is a [pdf](https://info3370.github.io/assets/assignments/pset1.pdf)
 - In Canvas, you will upload the PDF produced by your .Rmd file
 - Don't put your name on the problem set. We want anonymous grading to be possible
-- We’re here to help! Reach out using Ed Discussion or Office Hours
+- We’re here to help! Reach out using Ed Discussion or office hours
 
 This problem set involves both reading and data analysis.
 
 ### Reading for this the problem set
 
-Everyone will read p.~1--7 of following paper. Stop before the section "Analytic Framework for Decomposing Inequality."
+Everyone will read p. 1--7 of following paper. Stop before the section "Analytic Framework for Decomposing Inequality."
 
 > Cheng, Siwei. 2021. [The shifting life course patterns of wage inequality.](https://doi.org/10.1093/sf/soab003). _Social Forces_ 100(1):1--28. [https://doi.org/10.1093/sf/soab003](https://doi.org/10.1093/sf/soab003)
 
