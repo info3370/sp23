@@ -66,7 +66,7 @@ schedule:
         end: 12:10 PM
         location: Phillips 203
       - name: OH (Fede)
-        start: 3:00 PM
-        end: 4:00 PM
+        start: 1:30 PM
+        end: 2:30 PM
         location: Rhodes 406
 ---
