@@ -13,9 +13,15 @@ parent: Assignments
 
 **Due: 5pm on 10 Feb 2023.**
 
+> After grades are released: If you think you have been graded in error, we will only consider regrade requests submitted [here](https://docs.google.com/forms/d/e/1FAIpQLSecmTna0y7OoELhz14pulJpVelAacCIJ4KE-Dx6O3xCirUwaA/viewform). All requests must be submitted within 72 hours of grade release.
+
 Welcome to the first problem set!
 
-- Use this [.Rmd template](https://info3370.github.io/assets/assignments/pset1.Rmd) to complete the problem set- If you want to print the assignment, here is a [pdf](https://info3370.github.io/assets/assignments/pset1.pdf)- In Canvas, you will upload the PDF produced by your .Rmd file- Don't put your name on the problem set. We want anonymous grading to be possible- We’re here to help! Reach out using Ed Discussion or office hours
+- Use this [.Rmd template](https://info3370.github.io/assets/assignments/pset1.Rmd) to complete the problem set
+- If you want to print the assignment, here is a [pdf](https://info3370.github.io/assets/assignments/pset1.pdf)
+- In Canvas, you will upload the PDF produced by your .Rmd file
+- Don't put your name on the problem set. We want anonymous grading to be possible
+- We’re here to help! Reach out using Ed Discussion or office hours
 
 This problem set involves both reading and data analysis.
 
