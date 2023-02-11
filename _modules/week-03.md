@@ -8,15 +8,11 @@ Feb 6
 : [Download data from IPUMS](../lessonplans/3a)
   : 
 
-Feb 8
+Feb 8, 10
 : [Working with microdata](../lessonplans/3b)
   : R4DS [5](https://r4ds.had.co.nz/transform.html), [12.3](https://r4ds.had.co.nz/tidy-data.html?q=pivot#pivoting)
+: [HW 1 due](https://canvas.cornell.edu/courses/51595){: .btn .btn-green }
   
-Feb 10
+Feb 13
 : [Custom functions. Weighted percentiles](../lessonplans/3c)
   : R4DS [19](https://r4ds.had.co.nz/functions.html), [5.3](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)
-: [HW 1 due](https://canvas.cornell.edu/courses/51595){: .btn .btn-green }
-
-Feb 13
-: TBD
-  : 
