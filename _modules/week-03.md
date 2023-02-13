@@ -14,5 +14,5 @@ Feb 8, 10
 : [HW 1 due](https://canvas.cornell.edu/courses/51595){: .btn .btn-green }
   
 Feb 13
-: [Custom functions. Weighted percentiles](../lessonplans/3c)
+: [Custom functions. Using weights](../lessonplans/3c)
   : R4DS [19](https://r4ds.had.co.nz/functions.html), [5.3](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)
