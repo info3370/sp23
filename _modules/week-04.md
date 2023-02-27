@@ -7,10 +7,10 @@ Feb 15
   : |
 : [HW 1 peer grades due](){: .btn .btn-green }
  
-Feb 17, 20, 22
+Feb 17, 20, 22, 24
 : [Work on your own question](../lessonplans/4)
   : |
  
-Feb 24
+Mar 1
 : [Present your findings](../lessonplans/4)
   : |
