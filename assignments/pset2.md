@@ -47,11 +47,11 @@ We will learn from what they have done.
 We will use two data files from the [replication
 package](https://osf.io/kx94e/) for the paper.
 
-1)  [`PNAS_CPS_Complete_Labeled.dta`](https://osf.io/download/8htqk/)
+1.  [`PNAS_CPS_Complete_Labeled.dta`](https://osf.io/download/8htqk/)
     contains data from the 1970–2018 Current Population Survey Annual
     Social and Economic Supplement (CPS-ASEC), accessed by the authors
     through IPUMS
-2)  [`PNAS_Degree_Ratios.csv`](https://osf.io/download/udax8/) contains
+2.  [`PNAS_Degree_Ratios.csv`](https://osf.io/download/udax8/) contains
     data on college completion from the National Center for Education
     Statistics (NCES)
 
@@ -218,42 +218,42 @@ that you created using `asecwt`.
 
 In this bonus question, you will use the replicate weights.
 
-1)  Go to [cps.ipums.org](https://cps.ipums.org/cps/). Select the
+1.  Go to [cps.ipums.org](https://cps.ipums.org/cps/). Select the
     following variables: `age`, `year`, `empstat`, `sex`, `asecwt` and
     `repwtp*` where the latter will yield 160 columns of replicate
     weights when you download the data.
-2)  Select the ASEC samples for 2018–2022. The reason we are not
+2.  Select the ASEC samples for 2018–2022. The reason we are not
     selecting all years is so that the data file does not become huge.
-3)  Using R, create a prepared data frame as in the beginning of Part 1
+3.  Using R, create a prepared data frame as in the beginning of Part 1
     - Filter to the ages of interest: `age >= 25 & age <= 54`
     - Filter to `asecwt > 0` (see paper footnote on p. 6995 about
       negative weights)
     - Mutate to create an `employed` variable indicating that
       `empstat == 10 | empstat == 12`
     - Mutate to convert `sex` to a factor variable using `as_factor`
-4)  Following the steps from Part (1), write a function that
+4.  Following the steps from Part (1), write a function that
     - accepts `data` (which will be your prepared object) and a string
       `weight_name` as the argument
     - calculates the female/male employment ratio using the weight
       `weight_name`, as in Part 1
     - returns a data frame where each row is a year and the columns are
       `year`, `estimate`, and `weight_name`
-5)  Call your function with the weight name `asecwt`. The result is your
+5.  Call your function with the weight name `asecwt`. The result is your
     point estimate.
-6)  Call your function for each replicate weight `repwtp1` to
+6.  Call your function for each replicate weight `repwtp1` to
     `repwtp160`. We suggest a `foreach` loop as in the pseudocode below,
     which we have structured to combine the results in one data frame
     with many rows.
-7)  Within each year, take the standard deviation of replicate weight
+7.  Within each year, take the standard deviation of replicate weight
     estimates. This is the estimated standard error for your point
     estimate.
-8)  Join your point estimate and standard error into one data frame.
-9)  Mutate to create new variables `ci.min` and `ci.max` for the lower
+8.  Join your point estimate and standard error into one data frame.
+9.  Mutate to create new variables `ci.min` and `ci.max` for the lower
     and upper bounds of a confidence interval. We will assume a normal
     sampling distribution (drawing on the Central Limit Theorem) and
     place the bounds of this interval at the point estimate plus or
     minus `qnorm(.975)` times your estimated standard error.
-10) Visualize the result using `ggplot`. Use `geom_point()` for the
+10. Visualize the result using `ggplot`. Use `geom_point()` for the
     point estimate, and use `geom_errorbar()` for the 95% confidence
     interval estimate.
 
