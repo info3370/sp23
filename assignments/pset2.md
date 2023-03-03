@@ -10,7 +10,7 @@ parent: Assignments
 
 **Info 3370. Studying Social Inequality with Data Science. Spring 2023**
 
-**Due: 5pm on 8 Mar 2023. Submit on
+**Due: 5pm on 10 Mar 2023. Submit on
 [Canvas](https://canvas.cornell.edu/courses/51595).**
 
 > After grades are released: If you think you have been graded in error, we will only consider regrade requests submitted [here](https://docs.google.com/forms/d/e/1FAIpQLSecmTna0y7OoELhz14pulJpVelAacCIJ4KE-Dx6O3xCirUwaA/viewform). All requests must be submitted within 72 hours of grade release.
