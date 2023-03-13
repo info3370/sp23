@@ -14,4 +14,3 @@ Mar 10
 Mar 13
 : [What can or should be done](../lessonplans/6c)
   :  [Podcast](https://www.latimes.com/podcasts/story/2021-10-11/podcast-the-times-bruces-beach-update)
-: [HW 2 peer grades due](){: .btn .btn-blue }
