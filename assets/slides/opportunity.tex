@@ -151,61 +151,6 @@ The probability that a child out-earns their parent has fallen
 
 \end{frame}
 
-\begin{frame}
-
-Why stop at parent income? \vskip .2in \pause
-What other variables capture the luck of birth?
-
-\end{frame}
-
-\begin{frame}
-\begin{tikzpicture}[x = 3in, y = 2in]
-\node[anchor = east, rotate = 270, font = \footnotesize] at (.15,1) {Parent Income};
-\node[anchor = east, rotate = 270, font = \footnotesize] at (.25,1) {Grandparent Income};
-\node[anchor = east, rotate = 270, font = \footnotesize] at (.35,1) {Race};
-\node[anchor = east, rotate = 270, font = \footnotesize] at (.45,1) {Sex};
-\node[anchor = east, rotate = 270, font = \footnotesize] at (.55,1) {Grandparent Education};
-\node[anchor = east, rotate = 270, font = \footnotesize] at (.65,1) {Parent Education};
-\node[anchor = east, rotate = 270, font = \footnotesize] at (.75,1) {Respondent Education};
-\node[anchor = east, font = \footnotesize] at (.1,.95) {Case 1};
-\node[anchor = east, font = \footnotesize] at (.1,.85) {Case 2};
-\node[anchor = east, font = \footnotesize] at (.1,.75) {Case 3};
-\node[anchor = east, font = \footnotesize] at (.1,.65) {Case 4};
-\node[anchor = east, font = \footnotesize] at (.1,.55) {Case 5};
-\draw[step=.1,black,thin] (0.1,.5) grid (.8,1); 
-\node at (.5,1) {};
-\pause
-\node[anchor = east, rotate = 270, font = \footnotesize] at (1.15,1) {Respondent Income};
-\draw[step=.1,black,thin] (1.1,.5) grid (1.2,1);
-\draw[thin] (1.2,.5) -- (1.2,1);
-\pause
-\draw[->, thick] (.85,.65) -- node[midway, above, font = \footnotesize, align = center] {Learn a\\prediction\\function} (1.05,.65);
-\pause
-% Holdout set
-\draw[step=.1,black,thin] (0.1,.1) grid (.8,.4);
-\draw[step=.1,black,thin] (1.1,.1) grid (1.2,.4);
-\draw[thin] (1.2,.1) -- (1.2,.4);
-\node at (1.15,.35) {?};
-\node at (1.15,.25) {?};
-\node at (1.15,.15) {?};
-\node[anchor = east, font = \footnotesize] at (.1,.35) {Case 6};
-\node[anchor = east, font = \footnotesize] at (.1,.25) {Case 7};
-\node[anchor = east, font = \footnotesize] at (.1,.15) {Case 8};
-\pause
-\draw[->, thick] (.85,.25) -- node[midway, above, font = \footnotesize, align = center] {Predict for\\new cases} (1.05,.25);
-\pause
-% Label the two
-\node[rotate = 90, font = {\footnotesize\bf}, blue] at (-.1,.75) {{Learning} Set};
-\node[rotate = 90, font = {\footnotesize\bf}, seagreen] at (-.1,.25) {{Holdout} Set};
-\node at (-.05,0) {};
-\end{tikzpicture}
-\end{frame}
-
-\begin{frame}{The challenge}
-How well can you predict respondent incomes? \vskip .2in
-Get started \bref{https://info3370.github.io/lessonplans/7b/}{here}
-\end{frame}
-
 \goalsframe
 
 \end{document}
