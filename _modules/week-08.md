@@ -13,7 +13,6 @@ Mar 27
 Mar 29
  : Directed Acyclic Graphs
   : 
-: [HW 3 due](){: .btn .btn-green }
   
 Mar 31
  : Predicting counterfactuals

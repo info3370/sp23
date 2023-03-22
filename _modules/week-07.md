@@ -8,10 +8,20 @@ Mar 15
 
 Mar 17, 20
 : [Exercise: Measuring mobility](../lessonplans/7b)
-  : |
-  
-Mar 22 
-: [Discuss exercise](../lessonplans/7b)
-  : |
 : [HW 3 released](){: .btn .btn-green }
+
+Mar 22
+: [Exercise: Measuring mobility](../lessonplans/7b)
+: [HW 3 released](){: .btn .btn-green }
+
+Mar 24
+: [Exercise: Measuring mobility](../lessonplans/7b)
+
+Mar 27
+: [Discuss exercise](../lessonplans/7b)
+  
+Mar 29 
+: Predictability of life trajectories
+  : [HW 3 due](){: .btn .btn-green }
+
  
