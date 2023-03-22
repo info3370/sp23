@@ -9,7 +9,7 @@ Mar 8
 Mar 10
 : [Analyzing the Survey of Consumer Finances](../lessonplans/6b)
   : 
-: [HW 2 due](){: .btn .btn-blue }
+: [HW 2 due](../assignments/pset2){: .btn .btn-blue }
 
 Mar 13
 : [What can or should be done](../lessonplans/6c)
