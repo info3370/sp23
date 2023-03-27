@@ -1,7 +1,7 @@
 ---
 name: Elizabeth Moon
 role: Undergraduate TA
-email: em562@cornell.edu
+email: em652@cornell.edu
 pronouns: she/her
 photo: liz.jpg
 ---
