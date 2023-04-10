@@ -1,11 +1,11 @@
 ---
 layout: page
-nav_order: 4
-title: Predicting counterfactuals
-description: Predicting counterfactuals
-permalink: calendar/8d
+nav_order: 6
+title: Regression exercise
+description: Regression exercise
+permalink: calendar/8e
 grand_parent: Calendar
 parent: Interventions
 ---
 
-# Predicting counterfactuals
+# Regression estimators of causal effects. Exercise

@@ -1,11 +1,11 @@
 ---
 layout: page
-nav_order: 3
-title: Causal assumptions
-description: Causal assumptions
-permalink: calendar/8c
+nav_order: 5
+title: Regression estimators
+description: Regression estimators
+permalink: calendar/8e
 grand_parent: Calendar
 parent: Interventions
 ---
 
-# Causal assumptions. Directed acyclic graphs
+# Regression estimators

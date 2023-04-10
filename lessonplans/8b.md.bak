@@ -1,11 +1,11 @@
 ---
 layout: page
-nav_order: 2
-title: Observational analogs
-description: Observational analogs
-permalink: calendar/8b
+nav_order: 3
+title: Causal assumptions
+description: Causal assumptions
+permalink: calendar/8c
 grand_parent: Calendar
 parent: Interventions
 ---
 
-# Observational analogs
+# Causal assumptions. Directed acyclic graphs

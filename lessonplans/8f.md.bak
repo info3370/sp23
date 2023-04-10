@@ -1,11 +1,11 @@
 ---
 layout: page
-nav_order: 6
-title: Regression exercise
-description: Regression exercise
-permalink: calendar/8e
+nav_order: 8
+title: ML exercise
+description: ML exercise
+permalink: calendar/8h
 grand_parent: Calendar
 parent: Interventions
 ---
 
-# Regression estimators of causal effects. Exercise
+# Machine learning estimators of causal effects. Exercise
