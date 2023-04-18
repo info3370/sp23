@@ -1,7 +1,11 @@
 ---
-title: End of course
+title: Projects
 ---
 
+Apr 26, 28
+: Project group work
+  : 
+  
 May 1
 : [Project writeup due](){: .btn .btn-purple }
 
