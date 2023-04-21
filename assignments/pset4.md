@@ -13,6 +13,8 @@ parent: Assignments
 **Due: 5pm on 21 Apr 2023. Submit on
 [Canvas](https://canvas.cornell.edu/courses/51595).**
 
+> After grades are released: If you think you have been graded in error, we will only consider regrade requests submitted [here](https://docs.google.com/forms/d/e/1FAIpQLSecmTna0y7OoELhz14pulJpVelAacCIJ4KE-Dx6O3xCirUwaA/viewform). All requests must be submitted within 72 hours of grade release.
+
 Welcome to the fourth problem set! This problem set is about causal
 inference methods to study an intervention (a college degree) that might
 help to equalize economic opportunity.
