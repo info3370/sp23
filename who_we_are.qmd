@@ -98,4 +98,36 @@ Hello everyone! I study Information Science and Government and am fascinated by 
 Hi everyone, I am a Dyson and Infoscience double major. I love scubadiving, snowboarding, and working out. Excited to be working with all of you.
 :::
 
+::: {.g-col-2}
+<img src="assets/profiles/jonathan.png" style="width:100%;">
+:::
+
+::: {.g-col-10}
+**Jonathan Gotian**  
+(_he / him_)
+
+Hi all, I am a Dyson major and pursuing an Information Science minor studying business analytics and data science. In my free time, I love playing squash and chess. Excited to work with you all this semester!
+:::
+
+::: {.g-col-2}
+<img src="assets/profiles/joanne.png" style="width:100%;">
+:::
+
+::: {.g-col-10}
+**Joanne/Xinyu Hu**  
+(_she / they_)
+
+Hey all! I am an Information Science and Communication double major. Thinking about socioeconomic inequalities is always an important framework for me to see the world, and looking forward to working with you all in the class! Outside schoolwork, I enjoy biking, exploring storytelling, and visiting museums (LA The Broad is my favorite in the US so far but always open to recommendations)
+:::
+
+::: {.g-col-2}
+<img src="assets/profiles/liz.png" style="width:100%;">
+:::
+
+::: {.g-col-10}
+**Liz Moon**
+
+Hi there! I study Information and Computer Science with a focus on Data Science. I am passionate about using data-driven solutions to solve social science challenges. My other hobbies include experimenting with fusion cooking and film analysis. Looking forward to another great semester with everyone!
+:::
+
 :::
