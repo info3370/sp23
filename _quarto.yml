@@ -1,0 +1,67 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+    - "!archive/"
+
+execute: 
+  freeze: auto
+
+website:
+  title: "Studying Social Inequality with Data Science"
+  description: "Generate new knowledge about social inequality using the tools of data science."
+  navbar:
+    pinned: true
+    right:
+      - href: index.qmd
+        text: " "
+      - href: assets/syllabus.pdf
+        text: Syllabus
+      - href: index.qmd
+        text: Due Dates
+      - href: "https://edstem.org/us/courses/54550/"
+        text: Ed Discussion
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Home
+      - section: "Topics"
+        contents:
+          - topics/welcome.qmd
+          - section: "Generating Data"
+            contents:
+              - topics/surveys.qmd
+              - topics/sampling.qmd
+          - section: "Working with Data"
+            contents:
+              - topics/r_basics.qmd
+              - topics/visualization.qmd
+              - topics/data_transformation.qmd
+          - section: "Describing inequality"
+            contents:
+              - topics/race.qmd
+              - topics/gender.qmd
+              - topics/class.qmd
+          - topics/asking_questions.qmd
+          - section: "Reducing inequality"
+      - section: "Assignments"
+        contents:
+      - href: who_we_are.qmd
+        text: Who We Are
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    # grid: 
+    #   sidebar-width: 300px
+
+
+

@@ -1,0 +1,6 @@
+.DS_Store
+/renv
+.Rproj.user
+.Rprofile
+_site
+.quarto
