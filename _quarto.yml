@@ -2,7 +2,7 @@ project:
   type: website
   render: 
     - "*.qmd"
-    - "!archive/"
+    - "!/assets/"
 
 execute: 
   freeze: auto
@@ -49,6 +49,8 @@ website:
           - section: "Reducing inequality"
       - section: "Assignments"
         contents:
+          - href: assignments/pset0.qmd
+            text: "Problem Set 0"
       - href: who_we_are.qmd
         text: Who We Are
   back-to-top-navigation: true
