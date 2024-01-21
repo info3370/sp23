@@ -69,6 +69,16 @@ Hi everyone! I am an information science major concentrating in data science and
 :::
 
 ::: {.g-col-2}
+<img src="assets/profiles/chang.png" style="width:100%;">
+:::
+
+::: {.g-col-10}
+**Chang Chen**  
+
+Hi everyone! I study biometry and information science, concentrating on data science. I enjoy playing badminton and cooking. I look forward to working with all of you!
+:::
+
+::: {.g-col-2}
 <img src="assets/profiles/olaf.png" style="width:100%;">
 :::
 
