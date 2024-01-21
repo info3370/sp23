@@ -15,7 +15,7 @@ Get to know a little bit about our teaching team! For office hours, see the [Syl
 :::
 
 ::: {.g-col-2}
-<img src="assets/ian_modified.png" style="width:100%;">
+<img src="assets/profiles/ian.png" style="width:100%;">
 :::
 
 ::: {.g-col-10}
@@ -31,7 +31,7 @@ Working with data to understand inequality brings me joy and meaning, as I first
 :::
 
 ::: {.g-col-2}
-<img src="assets/2021_professional_compressed_modified.png" style="width:100%;">
+<img src="assets/profiles/fede.png" style="width:100%;">
 :::
 
 ::: {.g-col-10}
@@ -43,7 +43,7 @@ I am passionate about using data to support patient-centered care and study gend
 :::
 
 ::: {.g-col-2}
-<img src="assets/profile_pic_modified.png" style="width:100%;">
+<img src="assets/profiles/daniel.png" style="width:100%;">
 :::
 
 ::: {.g-col-10}
@@ -58,13 +58,34 @@ My research interests primarily focus on applying computational methods to impor
 :::
 
 ::: {.g-col-2}
-<img src="assets/olaf_profile_modified.png" style="width:100%;">
+<img src="assets/profiles/stacy.png" style="width:100%;">
+:::
+
+::: {.g-col-10}
+**Stacy Boey**  
+(_she / her_)
+
+Hi everyone! I am an information science major concentrating in data science and UX. Some hobbies of mine include crocheting, thrifting, and cooking. I look forward to a great semester with you guys!
+:::
+
+::: {.g-col-2}
+<img src="assets/profiles/olaf.png" style="width:100%;">
 :::
 
 ::: {.g-col-10}
 **Olaf de Rohan Willner**
 
 Hello everyone! I study Information Science and Government and am fascinated by understanding the world and how policies shape it through data. Outside of class I love watching 1950’s French movies, running, and cooking. Looking forward to meeting you all this semester!
+:::
+
+::: {.g-col-2}
+<img src="assets/profiles/akira.png" style="width:100%;">
+:::
+
+::: {.g-col-10}
+**Akira Goh**
+
+Hi everyone, I am a Dyson and Infoscience double major. I love scubadiving, snowboarding, and working out. Excited to be working with all of you.
 :::
 
 :::

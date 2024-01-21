@@ -4,3 +4,4 @@
 .Rprofile
 _site
 .quarto
+/.quarto/
