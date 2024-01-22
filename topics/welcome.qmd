@@ -6,21 +6,18 @@ title: "Welcome!"
 
 [Slides](../assets/slides/2_Jencks.pdf){: .btn }
 
-Before this class session, you should read p. 49--57 of a paper that is more than 20 years old:
+America is more unequal by many measures than other industrialized nations. Should we be concerned? In today's reading, Jencks discusses how quantitative empirical evidence on inequality relates to arguments about the amount of inequality that is desirable.
 
-> Jencks, C. (2002). [Does inequality matter?](https://www.jstor.org/stable/20027737) Daedalus, 131(1), 49-65.
+After our discussion in class, read p. 49--57 of this paper:
 
-```{r}
-1+1
-```
+> Jencks, C. (2002). [Does inequality matter?](https://www.jstor.org/stable/20027737) Daedalus, 131(1).
 
-Why read this paper? A few highlights make this paper particularly worthwhile.
+The paper's engagement with both normative arguments and quantitative evidence is an example we will follow this semester.
 
-1. The paper distinguishes moral and theoretical arguments from quantitative empirical evidence
-2. The paper uses simple yet powerful descriptive statistics
-3. The paper is humble---it recognizes that data alone cannot answer moral questions, but moral questions about whether society is just or desirable can be better considered in light of transparent evidence
+- we will use data to summarize inequality
+- we will connect those summaries to moral arguments
 
-In coming weeks, the data we use will be more up-to-date. We will also return to engage more deeply with some of the moral arguments. But most broadly, we will follow the example of this paper as we seek to connect theories about inequality to quantitative empirical evidence.
+Ultimately, this class is creative: you will produce new evidence about a question of your choosing. To get there, we first need to learn a bit about population data and how to work with those data.
 
 ## Summary video: What we covered today
 
