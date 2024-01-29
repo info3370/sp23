@@ -1,9 +1,0 @@
----
-layout: home
-title: Readme
-nav_exclude: true
-seo:
-  type: Course
-  name: Readme
----
-
