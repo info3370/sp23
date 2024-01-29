@@ -17,8 +17,8 @@ parent: Assignments
 
 Welcome to the first problem set!
 
-- Use this [.Rmd template](https://info3370.github.io/assets/assignments/pset1.Rmd) to complete the problem set
-- If you want to print the assignment, here is a [pdf](https://info3370.github.io/assets/assignments/pset1.pdf)
+- Use this [.Rmd template](https://info3370.github.io/sp23/assets/assignments/pset1.Rmd) to complete the problem set
+- If you want to print the assignment, here is a [pdf](https://info3370.github.io/sp23/assets/assignments/pset1.pdf)
 - In Canvas, you will upload the PDF produced by your .Rmd file
 - Don't put your name on the problem set. We want anonymous grading to be possible
 - We’re here to help! Reach out using Ed Discussion or office hours
@@ -45,12 +45,12 @@ Graduate students will also read this paper for the bonus question
 ### Data analysis
 
 This problem set uses the data
-[`lifeCourse.csv`](https://info3370.github.io/assets/data/lifeCourse.csv).
+[`lifeCourse.csv`](https://info3370.github.io/sp23/assets/data/lifeCourse.csv).
 
 ``` r
 library(tidyverse)
 library(scales)
-lifeCourse <- read_csv("https://info3370.github.io/assets/data/lifeCourse.csv")
+lifeCourse <- read_csv("https://info3370.github.io/sp23/assets/data/lifeCourse.csv")
 ```
 
 The data contains information on the life course earnings profiles for
@@ -83,7 +83,7 @@ trajectories,
 - use `facet_grid` to make a panel of facets where each row is an
   education value and each column is a cohort value
 - Hint: See the [class
-  website](https://info3370.github.io/lessonplans/2a/), [Ed
+  website](https://info3370.github.io/sp23/lessonplans/2a/), [Ed
   Discussion](https://edstem.org/us/courses/33934/discussion/2475421),
   and [R4DS 3](https://r4ds.had.co.nz/data-visualisation.html) for help
   on getting started on the graph.

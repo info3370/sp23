@@ -1,7 +1,7 @@
 
 # This code file is an example submission.
 
-# More info at: https://info3370.github.io/lessonplans/7b/
+# More info at: https://info3370.github.io/sp23/lessonplans/7b/
 
 # There are four steps.
 # 1. Load data: learning.csv and holdout_public.csv

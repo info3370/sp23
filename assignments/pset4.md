@@ -20,7 +20,7 @@ inference methods to study an intervention (a college degree) that might
 help to equalize economic opportunity.
 
 - Before you begin, you download and unzip
-  [**pset4.zip**](https://info3370.github.io/assets/assignments/pset4.zip).
+  [**pset4.zip**](https://info3370.github.io/sp23/assets/assignments/pset4.zip).
   This contains several files that will be put in one working directory.
   Use the included .Rmd to complete the assignment
 - In Canvas, you will upload the PDF produced by your .Rmd file

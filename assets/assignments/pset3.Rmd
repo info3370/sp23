@@ -17,22 +17,22 @@ knitr::opts_chunk$set(echo = TRUE)
 Welcome to the third problem set!
 
 -   Use this [.Rmd
-    template](https://info3370.github.io/assets/assignments/pset3.Rmd)
+    template](https://info3370.github.io/sp23/assets/assignments/pset3.Rmd)
     to complete the problem set
 -   If you want to print the assignment, here is a
-    [pdf](https://info3370.github.io/assets/assignments/pset3.pdf)
+    [pdf](https://info3370.github.io/sp23/assets/assignments/pset3.pdf)
 -   In Canvas, you will upload the PDF produced by your .Rmd file
 -   Don't put your name on the problem set. We want anonymous grading to
     be possible
 -   We're here to help! Reach out using Ed Discussion or office hours
 
-This problem set is an individual extension of the [PSID Income Prediction Challenge](https://info3370.github.io/lessonplans/7b/) that has been our focus in class. In groups or individually, you have been uploading submissions that contain the individual identifier `g3_id` as well as the predicted outcome `g3_log_income`.
+This problem set is an individual extension of the [PSID Income Prediction Challenge](https://info3370.github.io/sp23/lessonplans/7b/) that has been our focus in class. In groups or individually, you have been uploading submissions that contain the individual identifier `g3_id` as well as the predicted outcome `g3_log_income`.
 
 The problem set is an opportunity to take your .R code for that exercise and turn it into a beautifully commented and clean .Rmd file. There are a few requirements beyond the requirements from the class activity.
 
 - Make a conceptual argument for how you chose your candidate learner(s)
      * Example: Why did you choose these predictors? How did you decide about interactions?
-- Conduct your own [sample split](https://info3370.github.io/lessonplans/7d/) within the learning set
+- Conduct your own [sample split](https://info3370.github.io/sp23/lessonplans/7d/) within the learning set
      * Report the test sample mean squared error (MSE) of your candidate learner(s)
 - **MPS students.** Include at least one OLS specification and at least one non-OLS specification. Comment on the magnitude of the difference in your test-set MSE between these learners. Full points can be given regardless of whether the difference is large or small.
 

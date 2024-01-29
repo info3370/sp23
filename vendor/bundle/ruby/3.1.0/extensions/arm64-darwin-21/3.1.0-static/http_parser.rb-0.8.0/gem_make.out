@@ -1,11 +1,11 @@
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 /Users/ilundberg/.rubies/ruby-3.1.3/bin/ruby -I /Users/ilundberg/.rubies/ruby-3.1.3/lib/ruby/site_ruby/3.1.0 extconf.rb
 creating Makefile
 
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20230120-11935-r4xpyg sitelibdir\=./.gem.20230120-11935-r4xpyg clean
 
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20230120-11935-r4xpyg sitelibdir\=./.gem.20230120-11935-r4xpyg
 compiling ruby_http_parser.c
 ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
@@ -15,9 +15,9 @@ ruby_http_parser.c:365:17: warning: comparison of integers of different signs: '
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.bundle
 
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20230120-11935-r4xpyg sitelibdir\=./.gem.20230120-11935-r4xpyg install
 /usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20230120-11935-r4xpyg
 
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20230120-11935-r4xpyg sitelibdir\=./.gem.20230120-11935-r4xpyg clean

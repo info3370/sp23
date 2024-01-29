@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r, comment = F, message = F}
 library(tidyverse)
-byCollege <- read_csv("https://info3370.github.io/assets/data/byCollege.csv")
+byCollege <- read_csv("https://info3370.github.io/sp23/assets/data/byCollege.csv")
 ```
 
 A few observations about the data

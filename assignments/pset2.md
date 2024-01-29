@@ -18,10 +18,10 @@ parent: Assignments
 Welcome to the second problem set!
 
 - Use this [.Rmd
-  template](https://info3370.github.io/assets/assignments/pset2.Rmd) to
+  template](https://info3370.github.io/sp23/assets/assignments/pset2.Rmd) to
   complete the problem set
 - If you want to print the assignment, here is a
-  [pdf](https://info3370.github.io/assets/assignments/pset2.pdf)
+  [pdf](https://info3370.github.io/sp23/assets/assignments/pset2.pdf)
 - In Canvas, you will upload the PDF produced by your .Rmd file
 - Don’t put your name on the problem set. We want anonymous grading to
   be possible

@@ -18,17 +18,17 @@ parent: Assignments
 Welcome to the third problem set!
 
 - Use this [.Rmd
-  template](https://info3370.github.io/assets/assignments/pset3.Rmd) to
+  template](https://info3370.github.io/sp23/assets/assignments/pset3.Rmd) to
   complete the problem set
 - If you want to print the assignment, here is a
-  [pdf](https://info3370.github.io/assets/assignments/pset3.pdf)
+  [pdf](https://info3370.github.io/sp23/assets/assignments/pset3.pdf)
 - In Canvas, you will upload the PDF produced by your .Rmd file
 - Don’t put your name on the problem set. We want anonymous grading to
   be possible
 - We’re here to help! Reach out using Ed Discussion or office hours
 
 This problem set is an individual extension of the [PSID Income
-Prediction Challenge](https://info3370.github.io/lessonplans/7b/) that
+Prediction Challenge](https://info3370.github.io/sp23/lessonplans/7b/) that
 has been our focus in class. In groups or individually, you have been
 uploading submissions that contain the individual identifier `g3_id` as
 well as the predicted outcome `g3_log_income`.
@@ -41,7 +41,7 @@ a few requirements beyond the requirements from the class activity.
   - Example: Why did you choose these predictors? How did you decide
     about interactions?
 - Conduct your own [sample
-  split](https://info3370.github.io/lessonplans/7d/) within the learning
+  split](https://info3370.github.io/sp23/lessonplans/7d/) within the learning
   set
   - Report the test sample mean squared error (MSE) of your candidate
     learner(s)

@@ -16,7 +16,7 @@
 title: Info 3370
 email: ilundberg@cornell.edu
 description: Info 3370 at Cornell
-baseurl: "/info3370sp23" # the subpath of your site, e.g. /blog
+baseurl: "/sp23" # the subpath of your site, e.g. /blog
 url: "https://info3370.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -32,7 +32,7 @@ aux_links:
   Canvas:
     - 'https://canvas.cornell.edu/courses/51595'
   Syllabus:
-    - 'https://info3370.github.io/assets/syllabus.pdf'
+    - 'https://info3370.github.io/sp23/assets/syllabus.pdf'
 plugins:
   - jekyll-feed
 

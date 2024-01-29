@@ -1,4 +1,4 @@
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
 /Users/ilundberg/.rubies/ruby-3.1.3/bin/ruby -I /Users/ilundberg/.rubies/ruby-3.1.3/lib/ruby/site_ruby/3.1.0 extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi,/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi,/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi... yes
@@ -10,10 +10,10 @@ checking for whether -pthread is accepted as LDFLAGS... yes
 creating extconf.h
 creating Makefile
 
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
 make DESTDIR\= sitearchdir\=./.gem.20230120-11935-tb56cs sitelibdir\=./.gem.20230120-11935-tb56cs clean
 
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
 make DESTDIR\= sitearchdir\=./.gem.20230120-11935-tb56cs sitelibdir\=./.gem.20230120-11935-tb56cs
 compiling AbstractMemory.c
 compiling ArrayType.c
@@ -40,9 +40,9 @@ compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
 
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
 make DESTDIR\= sitearchdir\=./.gem.20230120-11935-tb56cs sitelibdir\=./.gem.20230120-11935-tb56cs install
 /usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20230120-11935-tb56cs
 
-current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
+current directory: /Users/ilundberg/Dropbox/github/info3370/info3370.github.io/sp23/vendor/bundle/ruby/3.1.0/gems/ffi-1.15.5/ext/ffi_c
 make DESTDIR\= sitearchdir\=./.gem.20230120-11935-tb56cs sitelibdir\=./.gem.20230120-11935-tb56cs clean
