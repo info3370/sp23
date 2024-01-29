@@ -16,8 +16,8 @@
 title: Info 3370
 email: ilundberg@cornell.edu
 description: Info 3370 at Cornell
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/info3370sp23" # the subpath of your site, e.g. /blog
+url: "https://info3370.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
